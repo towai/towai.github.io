@@ -6,9 +6,7 @@
 	<link href="./style.css" rel="stylesheet" />
 </head>
 <center>
-
 # Am cat
 
 Yes
-
 </center>
