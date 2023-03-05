@@ -1,80 +1,13 @@
 <head>
-	<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet">
-	<style>
-		body {
-			background-color: #023;
-			color: #bed;
-			padding-top: 1rem;
-			font-family: 'Atkinson Hyperlegible';
-			text-align: justify;
-			text-shadow: 1px 0px 1px black;
-		}
-		a:link {
-			color: #3deadf;
-		}
-		a:visited {
-			color: #2ba5ed;
-		}/*
-		h2 {
-			border-right-width: 2px;
-			border-left-width: 2px;
-			border-radius: 5px;
-			border-color: #2ba5ed;
-			width: max-content;
-		}*/
-		h3 {
-			margin-bottom: 0.5rem;
-		}
-		p, h4 {
-			max-width: 1200px;
-		}
-		p {
-			text-align: justify;
-			margin: 0.5rem 0;
-		}
-		hr {
-			margin: 1rem 9rem;
-			border-radius: 5px;
-			border-color: #2ba5ed;
-			border-width: 2px;
-			min-height: 5px;
-			max-width: 1200px;
-			border-style: solid;
-		}
-		hr.top {
-			border-top-width: 0;
-		}
-		hr.bot {
-			border-bottom-width: 0;
-		}
-		.cols {
-			display: flex;
-			margin: 0.5rem 0rem;
-			max-width: 1200px;
-		}
-		.cols > h3 {
-			float: left;
-			width: 15%;
-			margin: auto 1rem;
-			position: relative;
-			top: 50%;
-			text-align: right;
-		}
-		.cols > p, .cols > h4 {
-			margin: 0.25rem 0;
-			width: 85%;
-			vertical-align: middle;
-			text-align: left;
-		}
-		.cols:after {
-			content: "";
-			display: table;
-			clear: both;
-		}
-	</style>
 	<title>Cat webpage</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap" rel="stylesheet">
+	<link href="./style.css" rel="stylesheet" />
 </head>
+<center>
 
 # Am cat
 
 Yes
+</center>
