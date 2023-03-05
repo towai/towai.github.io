@@ -1,10 +1,12 @@
 body {
 	background-color: #023;
+	background-image: "bg.png";
 	color: #bed;
 	padding-top: 1rem;
 	font-family: 'Atkinson Hyperlegible';
 	text-align: justify;
 	text-shadow: 1px 0px 1px black;
+	margin: 10px auto;
 }
 
 a:link {
