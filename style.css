@@ -9,6 +9,13 @@ body {
 	margin: 10px auto;
 }
 
+/**/
+.markdown-body {
+	font-family: 'Atkinson Hyperlegible';
+	text-align: justify;
+	margin: 10px auto;
+}/**/
+
 a:link {
 	color: #3deadf;
 }
@@ -19,6 +26,8 @@ a:visited {
 
 .markdown-body h1 {
 	border: none;
+	margin: auto;
+	text-align: center;
 }
 
 /*
