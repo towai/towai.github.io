@@ -17,6 +17,10 @@ a:visited {
 	color: #2ba5ed;
 }
 
+.markdown-body h1 {
+	border: none;
+}
+
 /*
 h2 {
 	border-right-width: 2px;
