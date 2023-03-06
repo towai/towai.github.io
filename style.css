@@ -25,21 +25,21 @@ h2 {
 	border-color: #2ba5ed;
 	width: max-content;
 }*/
-h3 {
+.markdown-body h3 {
 	margin-bottom: 0.5rem;
 }
 
-p,
-h4 {
+.markdown-body p,
+.markdown-body h4 {
 	max-width: 1200px;
 }
 
-p {
+.markdown-body p {
 	text-align: justify;
 	margin: 0.5rem 0;
 }
 
-hr {
+.markdown-body hr {
 	margin: 1rem 9rem;
 	border-radius: 5px;
 	border-color: #2ba5ed;
@@ -49,21 +49,21 @@ hr {
 	border-style: solid;
 }
 
-hr.top {
+.markdown-body hr.top {
 	border-top-width: 0;
 }
 
-hr.bot {
+.markdown-body hr.bot {
 	border-bottom-width: 0;
 }
 
-.cols {
+.markdown-body .cols {
 	display: flex;
 	margin: 0.5rem 0rem;
 	max-width: 1200px;
 }
 
-.cols>h3 {
+.markdown-body .cols>h3 {
 	float: left;
 	width: 15%;
 	margin: auto 1rem;
@@ -72,15 +72,15 @@ hr.bot {
 	text-align: right;
 }
 
-.cols>p,
-.cols>h4 {
+.markdown-body .cols>p,
+.markdown-body .cols>h4 {
 	margin: 0.25rem 0;
 	width: 85%;
 	vertical-align: middle;
 	text-align: left;
 }
 
-.cols:after {
+.markdown-body .cols:after {
 	content: "";
 	display: table;
 	clear: both;

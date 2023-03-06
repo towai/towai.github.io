@@ -8,4 +8,4 @@
 
 # Am cat
 
-Yes
+Yes [wau](https://crouton.net) ![nyawr](https://crouton.net/crouton.png)
