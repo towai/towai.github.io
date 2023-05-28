@@ -8,8 +8,11 @@
 
 
 # select your platform
+
 ### nb: this isn't too useful without window transparency, which is only supported on windows. sorry
 
 ## [Win32](/)
+
 ## [Win64](/)
+
 ## [Linux (untested)](/)
