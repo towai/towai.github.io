@@ -10,10 +10,10 @@
 
 # Am cat
 
-Yes [wau](https://crouton.net) ![nyawr](https://crouton.net/crouton.png "croot on") this is a webpage with several text on it.
+Yes ![nyawr](https://crouton.net/crouton.png "croot on") this is a webpage with several text on it.
 It is continuing to be a webpage. I dunno what I'm going to put here in the future; I already have a neocities and I'm making this
 so that with keybase.pub going down I still have somewhere to rehost my shit.
-Thanks for the link rot, Zoom.
+such as [Velocity Viewer](/velo-viewer)
 
 But the things I'm rehosting will be going in their own repos. So it's more like this is a practice webpage of sorts
 to figure out how to deal with GitHub Pages and GitHub's own very special unique Markdown flavor before trying to do any of that.
