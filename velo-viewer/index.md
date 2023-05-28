@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# oh hi hello
-=======
 <head>
 	<title>"Touch Rapotr. Love Rapotr."
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,4 +13,3 @@
 ## [Win32](/)
 ## [Win64](/)
 ## [Linux (untested)](/)
->>>>>>> ebc7461 (Add Velo Viewer folder)
