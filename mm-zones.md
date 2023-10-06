@@ -34,7 +34,7 @@
 		}
 		p {
 			text-align: justify;
-			margin: 0.5rem 0;
+			margin: 0.5rem auto;
 		}
 		hr {
 			margin: 1rem 9rem;
@@ -77,7 +77,6 @@
 		}
 	</style>
 </head>
-<center>
 
 # Surf Zones for Momentum Mod
 
@@ -188,7 +187,6 @@ Some zones have a value of 0 in that column, in which case they were converted w
 
 <hr class="bot" />
 <footer>読む を ありがとう</footer>
-</center>
 
 [MEGAfolder]: https://mega.nz/folder/0ZJzxRZS#Ey1BTegBVngpfzMo-GuVyw
 [.enjoy_zip]: https://mega.nz/file/AYAXgJgS#RYEPYGiu_2z1ttkUE9yBQ39pfMwwuMpOqzVXeQFZduA
