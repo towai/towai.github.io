@@ -9,12 +9,10 @@
 
 # Am cat
 
-Yes ![nyawr](https://crouton.net/crouton.png "croot on") this is a webpage with several text on it.
-It is continuing to be a webpage. I dunno what I'm going to put here in the future; I already have a neocities and I'm making this
-so that with keybase.pub going down I still have somewhere to rehost my shit. Such as [Velocity Viewer](/velo-viewer)
+Still not sure what utility this will have in being separate from my Neocities but here it is
 
-But the things I'm rehosting will be going in their own repos. So it's more like this is a practice webpage of sorts
-to figure out how to deal with GitHub Pages and GitHub's own very special unique Markdown flavor before trying to do any of that.
+# Stuff i done did
 
-Lemme try to remember how furigana work. <ruby>先生<rt>せんせい</rt></ruby>? can i inline this shit like this in GFM?
-only one way to find out
+## [Velocity Viewer](/velo-viewer)
+## [Converted zone definitions for the modern Momentum Mod format](/mm-zones.md)
+i think they gave me a steam playtest key because i did this. very cool
