@@ -97,7 +97,6 @@ You can have the [source for the converter][converter_zip] if you have a set of 
 (like if you have/had your own server or something with its own maplist)
 but know it's a Godot 4 project since that's just easiest for me to write and iterate with,
 (especially since it comes with stuff for file handling, parsing CSV lines, etc).
-<sup>Now seems to be as good a time as any to learn Godot scripting! :))</sup>
 Also, if it's in a different format than the few I tested with, you're on your own <span title="with regard to">w.r.t</span> adding support,
 though I tried to at least make the conversion process modular & extendable within reason.
 This converter *does not* handle SQL files directly -- you have to convert the zones table into a CSV sheet
