@@ -107,85 +107,86 @@ while keeping the column labels as the first row.
 
 ## [wayne3288.zip](https://mega.nz/file/RQRhnDoa#aPQiUoQ8ic47ASQFEEC_ArVFcrg0IIHdhvk4yGnwK8M)
 
-<div class="cols">
+<!-- <div class="cols"> -->
 
 ### Source
 Converted from a collection of zone definitions in an older .zon format
 that was <a href="https://github.com/dPexxIAM/Momentum-surf-zones">made available on GitHub</a>.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Notes
 The source format supports multiple stages, but apparently does not support multiple tracks.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Map Count
 #### 200
 
-</div>
+<!-- </div> -->
 
 ## [Flow Surf.zip](https://mega.nz/file/sZASgDJR#evf8B3FQjlX0mnrmGrvxfH88_C5XMQ8UhkuEoemIuSs)
 
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Source
 Converted from a SQL table provided in a <a href="https://nulledbb.com/thread-Surf-Gamemode">starter pack</a>
 for people starting a new surf GMod server.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Notes
 The source format supports multiple tracks, but apparently does not support stages,
 only start and end zones (see: surf_beginner, surf_rookie).
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Map Count
 #### 103
 
-</div>
+<!-- </div> -->
 
 # ckSurf/SurfTimer format
 
-<p style="text-align: center;">This format supports both multiple tracks and multiple stages to a track.
+<!-- <p style="text-align: center;">-->
+This format supports both multiple tracks and multiple stages to a track.
 
 ## [.enjoy.zip](https://mega.nz/file/AYAXgJgS#RYEPYGiu_2z1ttkUE9yBQ39pfMwwuMpOqzVXeQFZduA)
 
-<div class="cols">
+<!-- <div class="cols"> -->
 
 ### Source
 Converted from a ZoneDB SQL table graciously provided by .enjoy
 (same person who maintains the [directory of zone defs](http://nnsurf.site.nfoservers.com/Momentum/) linked in the FAQ)
 on the Momentum Discord server.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Notes
 The source format is the same as the format used in the latest version of ckSurf.
 There's a few maps with sort of borked definitions I noticed (surf_mushroom_ksf, surf_fruits, surf_sluice)
 but the issues are present in the SQL table and aren't due to the conversion.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Map Count
 #### 506
-</div>
+<!-- </div> -->
 
 ## [SurfTimer.zip](https://mega.nz/file/1ZBxjYoR#IdJNhEBzD5Z3ibk2CgV9piFRG7cUBFqI1KUmdXvWf4c)
 
-<div class="cols">
+<!-- <div class="cols"> -->
 
 ### Source
 Converted from a ZoneDB SQL table [available in the GitHub repo](https://raw.githubusercontent.com/surftimer/SurfTimer/dev/scripts/mysql-files/ck_zones.sql) of the SurfTimer plugin for CS:GO surf servers.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Notes
 A continuation of the ckSurf format, this pack's source format has a few more fields, chiefly a `prespeed` field, but it's almost always 350, the default.
 Some zones have a value of 0 in that column, in which case they were converted with `limitingspeed` (whether to cap player speed on exiting the zone) disabled.
-</div><div class="cols">
+<!-- </div><div class="cols"> -->
 
 ### Map Count
 #### 744
-</div>
+<!-- </div> -->
 
 <hr class="bot" />
 
-<small>読んで　くれて　ありがとう</small>
+<center><small>読んで　くれて　ありがとう</small></center>
 
 <!--
 [MEGAfolder]: https://mega.nz/folder/0ZJzxRZS#Ey1BTegBVngpfzMo-GuVyw "MEGA folder"
