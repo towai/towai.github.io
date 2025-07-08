@@ -80,8 +80,7 @@
 
 # Surf Zones for Momentum Mod
 
-### If you don't care about learning what the different packs are,
-you can just go to the [MEGA folder][MEGAfolder]
+### If you don't care about the details of the different packs, you can just go to the [MEGA folder][MEGAfolder].
 
 These packs of .zon map definitions are converted from various sources for the latest .zon definition format as of 22 January, 2023.
 They are provided without any editing and not very much testing.
@@ -98,7 +97,7 @@ You can have the [source for the converter][converter_zip] if you have a set of 
 (like if you have/had your own server or something with its own maplist)
 but know it's a Godot 4 project since that's just easiest for me to write and iterate with,
 (especially since it comes with stuff for file handling, parsing CSV lines, etc).
-Now seems to be as good a time as any to learn Godot scripting! :))
+<sup>Now seems to be as good a time as any to learn Godot scripting! :))</sup>
 Also, if it's in a different format than the few I tested with, you're on your own <span title="with regard to">w.r.t</span> adding support,
 though I tried to at least make the conversion process modular & extendable within reason.
 This converter *does not* handle SQL files directly -- you have to convert the zones table into a CSV sheet
@@ -186,9 +185,10 @@ Some zones have a value of 0 in that column, in which case they were converted w
 </div>
 
 <hr class="bot" />
-<footer>読む を ありがとう</footer>
 
-[MEGAfolder]: https://mega.nz/folder/0ZJzxRZS#Ey1BTegBVngpfzMo-GuVyw
+<small>読んで　くれて　ありがとう</small>
+
+[MEGAfolder]: https://mega.nz/folder/0ZJzxRZS#Ey1BTegBVngpfzMo-GuVyw "MEGA folder"
 [.enjoy_zip]: https://mega.nz/file/AYAXgJgS#RYEPYGiu_2z1ttkUE9yBQ39pfMwwuMpOqzVXeQFZduA
 [converter_zip]: https://mega.nz/file/kV4jnLDL#fzjazicVjQL_-iFf2rhCRO44qQLRhYqG4DPhg0iOlDE
 [FlowSurf_zip]: https://mega.nz/file/sZASgDJR#evf8B3FQjlX0mnrmGrvxfH88_C5XMQ8UhkuEoemIuSs

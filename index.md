@@ -9,7 +9,8 @@
 
 # Am cat
 
-Still not sure what utility this will have in being separate from my Neocities but here it is
+Still not sure what utility this will have since i already have my Neocities 
+and github.io is way more of a pain in the ass but here it is
 
 # Stuff i done did
 

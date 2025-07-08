@@ -10,8 +10,8 @@
 
 ### nb: this isn't too useful without window transparency, which is only supported on windows. sorry
 
-## [Win32](https://mega.nz/file/QNYXgJaJ#RywIFfsivPkocjiOHKGVqhEozNT-RpHK4uBrzW3t020)
+## [Win32](https://mega.nz/file/pAhSRIYT#xowpmcyPVbk42HAOTSKiv3aUum_duPpB4Jepdvgu4yk)
 
-## [Win64](https://mega.nz/file/wYwg0aLS#QF58ljHKxoPjYpsFQI9QY--4OL9ecl-QxmXiYozGOP8)
+## [Win64](https://mega.nz/file/UJZSBTZT#1RkkpxL4rwZbghqwCV9I2ioIBQ19EhmSmRuyVkRcOTA)
 
-## [Linux (untested)](https://mega.nz/file/MABgUCKb#y6AMJG4VzvrARtc67t1Ias5ghhQJzWxhfLnkpcliFos)
+## [Linux (old version; lacking important features)](https://mega.nz/file/MABgUCKb#y6AMJG4VzvrARtc67t1Ias5ghhQJzWxhfLnkpcliFos)
