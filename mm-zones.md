@@ -80,7 +80,7 @@
 
 # Surf Zones for Momentum Mod
 
-### If you don't care about the details of the different packs, you can just go to the [MEGA folder][MEGAfolder].
+### If you don't care about the details of the different packs, you can just go to the [MEGA folder](https://mega.nz/folder/0ZJzxRZS#Ey1BTegBVngpfzMo-GuVyw).
 
 These packs of .zon map definitions are converted from various sources for the latest .zon definition format as of 22 January, 2023.
 They are provided without any editing and not very much testing.
@@ -93,7 +93,7 @@ At the very least, glancing at the docs repo I haven't been able to identify any
 To install, just extract into `%game directory%/momentum/zones`
 (be sure not to let Windows or 7zip or whatever else make an additional subfolder within `zones/`!)
 
-You can have the [source for the converter][converter_zip] if you have a set of your own you want to convert,
+You can have the [source for the converter](https://mega.nz/file/kV4jnLDL#fzjazicVjQL_-iFf2rhCRO44qQLRhYqG4DPhg0iOlDE) if you have a set of your own you want to convert,
 (like if you have/had your own server or something with its own maplist)
 but know it's a Godot 4 project since that's just easiest for me to write and iterate with,
 (especially since it comes with stuff for file handling, parsing CSV lines, etc).
@@ -105,7 +105,7 @@ while keeping the column labels as the first row.
 
 <hr class="top" />
 
-## [wayne3288.zip][wayne3288_zip]
+## [wayne3288.zip](https://mega.nz/file/RQRhnDoa#aPQiUoQ8ic47ASQFEEC_ArVFcrg0IIHdhvk4yGnwK8M)
 
 <div class="cols">
 
@@ -123,7 +123,7 @@ The source format supports multiple stages, but apparently does not support mult
 
 </div>
 
-## [Flow Surf.zip][FlowSurf_zip]
+## [Flow Surf.zip](https://mega.nz/file/sZASgDJR#evf8B3FQjlX0mnrmGrvxfH88_C5XMQ8UhkuEoemIuSs)
 
 </div><div class="cols">
 
@@ -146,7 +146,7 @@ only start and end zones (see: surf_beginner, surf_rookie).
 
 <p style="text-align: center;">This format supports both multiple tracks and multiple stages to a track.
 
-## [.enjoy.zip][.enjoy_zip]
+## [.enjoy.zip](https://mega.nz/file/AYAXgJgS#RYEPYGiu_2z1ttkUE9yBQ39pfMwwuMpOqzVXeQFZduA)
 
 <div class="cols">
 
@@ -166,7 +166,7 @@ but the issues are present in the SQL table and aren't due to the conversion.
 #### 506
 </div>
 
-## [SurfTimer.zip][SurfTimer_zip]
+## [SurfTimer.zip](https://mega.nz/file/1ZBxjYoR#IdJNhEBzD5Z3ibk2CgV9piFRG7cUBFqI1KUmdXvWf4c)
 
 <div class="cols">
 
@@ -187,10 +187,11 @@ Some zones have a value of 0 in that column, in which case they were converted w
 
 <small>読んで　くれて　ありがとう</small>
 
-
+<!--
 [MEGAfolder]: https://mega.nz/folder/0ZJzxRZS#Ey1BTegBVngpfzMo-GuVyw "MEGA folder"
 [.enjoy_zip]: https://mega.nz/file/AYAXgJgS#RYEPYGiu_2z1ttkUE9yBQ39pfMwwuMpOqzVXeQFZduA
 [converter_zip]: https://mega.nz/file/kV4jnLDL#fzjazicVjQL_-iFf2rhCRO44qQLRhYqG4DPhg0iOlDE
 [FlowSurf_zip]: https://mega.nz/file/sZASgDJR#evf8B3FQjlX0mnrmGrvxfH88_C5XMQ8UhkuEoemIuSs
 [SurfTimer_zip]: https://mega.nz/file/1ZBxjYoR#IdJNhEBzD5Z3ibk2CgV9piFRG7cUBFqI1KUmdXvWf4c
 [wayne3288_zip]: https://mega.nz/file/RQRhnDoa#aPQiUoQ8ic47ASQFEEC_ArVFcrg0IIHdhvk4yGnwK8M
+-->
